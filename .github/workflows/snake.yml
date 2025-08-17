@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch: # Allows manual trigger
 
+permissions:
+  contents: write   # <-- this gives the bot permission to push files
+
 jobs:
   build:
     runs-on: ubuntu-latest
