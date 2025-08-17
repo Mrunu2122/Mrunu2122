@@ -1,11 +1,11 @@
 # Hi there, I'm Mrunal 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=🚀%20Full%20Stack%20Developer;💻%20Next.js%20%7C%20React%20%7C%20Node.js;🌱%20Open%20Source%20Contributor;🎯%20Passionate%20about%20coding&center=true&size=27">
+  <img src="https://readme-typing-svg.vercel.app/?lines=🚀%20Full%20Stack%20Developer;💻%20Next.js%20%7C%20React%20%7C%20Node.js;🌱%20Open%20Source%20Contributor;🎯%20Passionate%20about%20coding&center=true&size=27&pause=3000&color=37BCF6">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=console.log(%22Hello%20World!%22);const%20developer%20=%20%7B;%20%20name:%20%22Mrunal%22,%20%20role:%20%22Full%20Stack%20Dev%22,%20%20passion:%20%22Coding%22%20%7D;&center=true&size=15&color=37BCF6">
+  <img src="https://readme-typing-svg.vercel.app/?lines=console.log(%22Hello%20World!%22);const%20developer%20=%20%7B;%20%20name:%20%22Mrunal%22,%20%20role:%20%22Full%20Stack%20Dev%22,%20%20passion:%20%22Coding%22%20%7D;&center=true&size=15&color=37BCF6&pause=4000">
 </div>  
 
 ---
@@ -13,7 +13,7 @@
 ### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=🛠%20Technologies%20I%20work%20with:&center=true&size=25">
+  <img src="https://readme-typing-svg.vercel.app/?lines=🛠%20Technologies%20I%20work%20with:&center=true&size=25&pause=2000&color=37BCF6">
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=📊%20My%20GitHub%20Statistics:&center=true&size=25">
+  <img src="https://readme-typing-svg.vercel.app/?lines=📊%20My%20GitHub%20Statistics:&center=true&size=25&pause=2000&color=37BCF6">
 </div>
 
 <div align="center">
