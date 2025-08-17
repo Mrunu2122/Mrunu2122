@@ -29,7 +29,6 @@
 ### 🐍 Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/Mrunu2122/Mrunu2122/output/github-contribution-grid-snake.svg)
 
-
 ---
 
 ### 📫 Connect with Me
