@@ -1,28 +1,47 @@
 # Hi there, I'm Mrunal 👋
 
-🚀 **Full Stack Developer | BTech CSE '26**  
-💻 Next.js • React • Node.js • TypeScript • MongoDB  
-🌱 Open Source Contributor | Learning  
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?lines=🚀%20Full%20Stack%20Developer;💻%20Next.js%20%7C%20React%20%7C%20Node.js;🌱%20Open%20Source%20Contributor;🎯%20Passionate%20about%20coding&center=true&size=27">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?lines=console.log(%22Hello%20World!%22);const%20developer%20=%20%7B;%20%20name:%20%22Mrunal%22,%20%20role:%20%22Full%20Stack%20Dev%22,%20%20passion:%20%22Coding%22%20%7D;&center=true&size=15&color=37BCF6">
+</div>  
 
 ---
 
 ### 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?lines=🛠%20Technologies%20I%20work%20with:&center=true&size=25">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</div>
 
 ---
 
 ### 📊 GitHub Stats
-![Mrunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrunu2122&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrunu2122&layout=compact&theme=tokyonight)  
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?lines=📊%20My%20GitHub%20Statistics:&center=true&size=25">
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mrunu2122&theme=dark&border_radius=4.5)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrunu2122&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrunu2122&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mrunu2122&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak">
+</div>
 
 ---
 
