@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | BTech CSE '26**  
 💻 Next.js • React • Node.js • TypeScript • MongoDB  
-🌱 Open Source Contributor | GSoC 2026 Aspirant  
+🌱 Open Source Contributor | Learning  
 
 ---
 
