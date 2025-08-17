@@ -26,14 +26,7 @@
 
 ---
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/Mrunu2122/Mrunu2122/blob/output/github-contribution-grid-snake.svg)
 
-<!-- Alternative snake using external service -->
-![snake gif](https://raw.githubusercontent.com/Mrunu2122/Mrunu2122/output/github-contribution-grid-snake-dark.svg)
-
-<!-- Direct snake generation -->
-![snake gif](https://github.com/Mrunu2122/Mrunu2122/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 ---
 
