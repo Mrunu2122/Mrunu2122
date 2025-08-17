@@ -26,20 +26,11 @@
 
 ---
 
-### 🎯 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                0 commits          ░░░░░░░░░░ 00.00% 
-🌆 Daytime                0 commits          ░░░░░░░░░░ 00.00% 
-🌃 Evening                0 commits          ░░░░░░░░░░ 00.00% 
-🌙 Night                  0 commits          ░░░░░░░░░░ 00.00%
-```
-<!--END_SECTION:waka-->
-
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrunu2122&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrunu2122&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+### 📈 Activity Graph
+![Mrunal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrunu2122&theme=react-dark&hide_border=true&area=true)
 
 ---
 
