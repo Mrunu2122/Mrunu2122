@@ -16,6 +16,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: Generate Snake
         run: |
           curl -o dist/github-contribution-grid-snake.svg "https://raw.githubusercontent.com/Platane/snk/master/demo/github-contribution-grid-snake.svg?user=Mrunu2122&theme=dark"
