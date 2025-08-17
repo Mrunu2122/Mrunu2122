@@ -27,7 +27,7 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Mrunu2122/Mrunu2122/output/github-contribution-grid-snake.svg?raw=true&v=1)
+![snake gif](https://github.com/Mrunu2122/Mrunu2122/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
