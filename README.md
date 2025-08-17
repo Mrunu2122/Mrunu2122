@@ -26,6 +26,23 @@
 
 ---
 
+### 🎯 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits          ░░░░░░░░░░ 00.00% 
+🌆 Daytime                0 commits          ░░░░░░░░░░ 00.00% 
+🌃 Evening                0 commits          ░░░░░░░░░░ 00.00% 
+🌙 Night                  0 commits          ░░░░░░░░░░ 00.00%
+```
+<!--END_SECTION:waka-->
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrunu2122&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 
 
 ---
