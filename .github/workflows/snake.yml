@@ -30,7 +30,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Mrunu2122
-          args: --theme dark
+          args: '--theme dark'
           outputs: dist/snake-dark.svg
 
       - name: Commit and push

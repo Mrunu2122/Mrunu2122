@@ -18,35 +18,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrunu2122&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrunu2122&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mrunu2122&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak">
-</div>
-
----
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrunu2122&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### 📈 Activity Graph
-![Mrunal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrunu2122&theme=react-dark&hide_border=true&area=true)
-
----
-
-### 🐍 Contribution Snake
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Mrunu2122/Mrunu2122/output/snake.svg#gh-light-mode-only)
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Mrunu2122/Mrunu2122/output/snake-dark.svg#gh-dark-mode-only)
-
----
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrunal-soshte-238a372ba)
