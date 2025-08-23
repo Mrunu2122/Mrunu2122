@@ -16,17 +16,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create dist directory
-        run: mkdir -p dist
-
       - name: Generate Snake
-        run: |
-          curl -o dist/github-contribution-grid-snake.svg "https://raw.githubusercontent.com/Platane/snk/master/demo/github-contribution-grid-snake.svg?user=Mrunu2122&theme=dark"
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: Platane/snk@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: Mrunu2122
+          svg_out_path: dist/snake.svg
+
+      - name: Generate Snake Dark
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Mrunu2122
+          theme: dark
+          svg_out_path: dist/snake-dark.svg
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/snake.svg dist/snake-dark.svg
+          git commit -m "chore: update snake contribution graph" || echo "No changes to commit"
+          git push

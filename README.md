@@ -41,7 +41,10 @@
 
 ---
 
+### 🐍 Contribution Snake
 
+![GitHub Contribution Snake](./dist/snake.svg#gh-light-mode-only)
+![GitHub Contribution Snake](./dist/snake-dark.svg#gh-dark-mode-only)
 
 ---
 
